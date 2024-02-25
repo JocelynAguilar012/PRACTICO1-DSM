@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DesafioPractico01</string>
+    <string name="titulo">DESAFIO PRACTICO</string>
+    <string name="Ejer1">Ejercicio 1</string>
+    <string name="Ejer2">Ejercicio 2</string>
+    <string name="Ejer3">Ejercicio 3</string>
+    <string name="Estudiante">Estudiante:</string>
+    <string name="n1">Nota 1:</string>
+    <string name="n2">Nota 2:</string>
+    <string name="n3">Nota 3:</string>
+    <string name="n4">Nota 4:</string>
+    <string name="n5">Nota 5:</string>
+    <string name="calcular">Calcular</string>
+    <string name="Resultado">Resultado:</string>
+    <string name="NombreTraba">Nombre:</string>
+    <string name="salario">Salario Base:</string>
+    <string name="calcularSalario">Calcular Salario</string>
+</resources>
