@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         //DECLARAMOS LOS BOTONES DE CADA EJERCICIO
         val buttonEjer1 = findViewById<Button>(R.id.btn1)
         val buttonEjer2 = findViewById<Button>(R.id.btn2)
-        //val buttonEjer3 = findViewById<Button>(R.id.btn3)
+        val buttonEjer3 = findViewById<Button>(R.id.btn3)
 
         //DEFINIMOS QUE PANTALLA SE MOSTRARA DEPENDIENDO DEL CLICK
 
@@ -27,6 +27,12 @@ class MainActivity : AppCompatActivity() {
         buttonEjer2.setOnClickListener {
             //Cuando se hace click sobre el boton ejercicio 2
             val intent = Intent(this, Ejercicio2::class.java)
+            startActivity(intent)
+        }
+
+        buttonEjer3.setOnClickListener {
+            //Cuando se hace click sobre el boton ejercicio 3
+            val intent = Intent(this, Ejercicio3::class.java)
             startActivity(intent)
         }
     }
