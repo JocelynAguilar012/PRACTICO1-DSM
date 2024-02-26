@@ -15,4 +15,12 @@
     <string name="NombreTraba">Nombre:</string>
     <string name="salario">Salario Base:</string>
     <string name="calcularSalario">Calcular Salario</string>
+    <string name="lblnum1">Ingrese Cantidad 1:</string>
+    <string name="lblnum2">Ingrese Cantidad 2:</string>
+    <string name="lblseleccion">Seleccione una operacion:</string>
+    <string name="btnsuma">+</string>
+    <string name="btnresta">-</string>
+    <string name="btnmultiplicacion">x</string>
+    <string name="btndivision">/</string>
+    <string name="lblresultado">Resultado:</string>
 </resources>
